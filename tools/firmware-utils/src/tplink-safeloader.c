@@ -379,7 +379,6 @@ static struct device_info boards[] = {
 			"{product_name:TL-WA850RE,product_ver:2.0.0,special_id:41550000}\n"
 			"{product_name:TL-WA850RE,product_ver:2.0.0,special_id:52550000}\n",
 		.support_trail = '\x00',
-		.soft_ver = NULL,
 
 		/**
 		   576KB were moved from file-system to os-image
